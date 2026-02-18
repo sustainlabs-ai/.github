@@ -24,7 +24,7 @@ Built for CFOs, Controllers, CSOs, and IR teams.
   <tr>
     <td align="center" valign="top" width="25%">
       <br/>
-      <strong>🧭 Log Pose</strong>
+      <a href="https://github.com/sustainlabs-ai/log-pose"><strong>🧭 Log Pose</strong></a>
       <br/><br/>
       <em>Compliance Platform</em>
       <br/><br/>
@@ -38,7 +38,7 @@ Built for CFOs, Controllers, CSOs, and IR teams.
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <strong>🗿 Poneglyph</strong>
+      <a href="https://github.com/sustainlabs-ai/poneglyph"><strong>🗿 Poneglyph</strong></a>
       <br/><br/>
       <em>ETL Framework & API</em>
       <br/><br/>
@@ -53,7 +53,7 @@ Built for CFOs, Controllers, CSOs, and IR teams.
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <strong>📚 Ohara</strong>
+      <a href="https://github.com/sustainlabs-ai/ohara"><strong>📚 Ohara</strong></a>
       <br/><br/>
       <em>Risk Modeling Sidecar</em>
       <br/><br/>
@@ -67,7 +67,7 @@ Built for CFOs, Controllers, CSOs, and IR teams.
     </td>
     <td align="center" valign="top" width="25%">
       <br/>
-      <strong>⚙️ Pluton</strong>
+      <a href="https://github.com/sustainlabs-ai/pluton"><strong>⚙️ Pluton</strong></a>
       <br/><br/>
       <em>Infrastructure as Code</em>
       <br/><br/>
