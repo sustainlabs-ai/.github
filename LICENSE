@@ -1,0 +1,99 @@
+PROPRIETARY SOFTWARE LICENSE, IP ASSIGNMENT, AND CONFIDENTIALITY AGREEMENT
+
+Sustainlabs AI S.A. de C.V. 2025–2026. All Rights Reserved.
+
+
+1. PROPRIETARY NOTICE
+
+This repository and all of its contents — including but not limited to source code,
+documentation, configuration files, data schemas, algorithms, architecture designs,
+and any related materials (collectively, the "Software") — are the exclusive property
+of Sustainlabs AI S.A. de C.V. ("the Company").
+
+
+2. RESTRICTIONS
+
+Unless explicitly authorized in writing by the Company, you may NOT:
+
+(a) Copy, reproduce, distribute, or create derivative works of the Software;
+(b) Disclose, publish, or make available the Software to any third party;
+(c) Use the Software for any purpose outside the scope of your authorized
+    engagement with the Company;
+(d) Reverse engineer, decompile, or disassemble any part of the Software;
+(e) Remove or alter any proprietary notices, labels, or marks.
+
+
+3. ASSIGNMENT OF INTELLECTUAL PROPERTY RIGHTS (CESIÓN DE DERECHOS)
+
+By accessing, viewing, cloning, forking, or contributing to this repository, you
+agree that:
+
+(a) All work product, contributions, modifications, inventions, discoveries, and
+    improvements (collectively, "Contributions") made in connection with this
+    repository are the sole and exclusive property of the Company;
+(b) You hereby irrevocably assign to the Company all right, title, and interest —
+    including all intellectual property rights (copyright, patent, trade secret,
+    and any other rights) — in and to any Contributions you make;
+(c) You waive any moral rights (derechos morales) to the extent permitted by
+    applicable law;
+(d) You will execute any documents and take any actions reasonably requested by
+    the Company to perfect, register, or enforce these rights.
+
+This assignment is effective upon your first access to this repository and applies
+to all past and future Contributions.
+
+
+4. CONFIDENTIALITY AND NON-DISCLOSURE
+
+By accessing this repository, you agree to the following confidentiality obligations:
+
+(a) All information contained in or derived from this repository — including source
+    code, architecture, business logic, algorithms, data models, API designs,
+    infrastructure configurations, client data schemas, and internal documentation
+    — constitutes Confidential Information of the Company;
+(b) You shall not disclose, publish, or otherwise make available any Confidential
+    Information to any third party without prior written authorization from the
+    Company;
+(c) You shall use Confidential Information solely for the purpose of performing
+    authorized work on behalf of the Company;
+(d) You shall take reasonable measures to protect the confidentiality of this
+    information, applying at least the same degree of care you use for your own
+    confidential information, but in no event less than reasonable care;
+(e) These confidentiality obligations survive the termination of your access to
+    this repository and your engagement with the Company, and remain in effect
+    indefinitely or until such information becomes publicly available through no
+    fault of your own.
+
+
+5. NO LICENSE GRANTED
+
+Nothing in this agreement grants you any license, express or implied, to the
+Company's intellectual property except the limited right to access the repository
+for authorized purposes. All rights not expressly granted are reserved by the
+Company.
+
+
+6. TERMINATION
+
+Your right to access this repository may be revoked at any time at the Company's
+sole discretion. Upon termination, you must destroy all copies of the Software in
+your possession and certify such destruction if requested.
+
+
+7. GOVERNING LAW
+
+This agreement shall be governed by and construed in accordance with the laws of
+the United Mexican States (Estados Unidos Mexicanos). Any disputes arising from or
+relating to this agreement shall be resolved in the competent courts of Mexico City
+(Ciudad de México), México.
+
+
+8. ACKNOWLEDGMENT
+
+By accessing this repository — whether by viewing, cloning, forking, branching,
+or contributing — you acknowledge that you have read, understood, and agree to be
+bound by the terms of this license.
+
+
+———————————————————————————————————————————————————————————————————————————————————
+Sustainlabs AI S.A. de C.V.
