@@ -89,33 +89,33 @@ flowchart TB
 
     subgraph PONEGLYPH ["🗿 Poneglyph · Rust"]
         direction TB
-        JOBS["poneglyph-jobs\nAsync runner · reqwest"]
-        ETL["poneglyph-etl\nDataFusion · Arrow"]
-        API["poneglyph-api\nAxum · REST"]
+        JOBS["poneglyph-jobs<br/>Async runner · reqwest"]
+        ETL["poneglyph-etl<br/>DataFusion · Arrow"]
+        API["poneglyph-api<br/>Axum · REST"]
         JOBS --> ETL
         ETL --> API
     end
 
     subgraph OHARA ["📚 Ohara · Python"]
         direction TB
-        MODELS["Physical Risk Models\nFastAPI · xarray"]
+        MODELS["Physical Risk Models<br/>FastAPI · xarray"]
     end
 
     subgraph INFRA ["⚙️ Pluton · Terraform"]
         direction TB
-        TF["S3 · CloudFront · IAM\nACM · Route 53"]
+        TF["S3 · CloudFront · IAM<br/>ACM · Route 53"]
     end
 
     CDS -->|"NetCDF / ZIP"| JOBS
     JOBS <-->|"HTTP · JSON Schema"| MODELS
-    ETL -->|"Bronze → Silver → Gold"| S3[("☁️ S3\nParquet")]
+    ETL -->|"Bronze → Silver → Gold"| S3[("☁️ S3<br/>Parquet")]
     S3 --> API
-    API -->|"REST API"| LP["🧭 Log Pose\nReact · Tailwind · deck.gl"]
+    API -->|"REST API"| LP["🧭 Log Pose<br/>React · Tailwind · deck.gl"]
     TF -.->|"provisions"| S3
     TF -.->|"provisions"| API
     TF -.->|"provisions"| LP
 
-    SCHEMA["📋 JSON Schema\nS3 bucket"]
+    SCHEMA["📋 JSON Schema<br/>S3 bucket"]
     SCHEMA -.->|"contract"| MODELS
     SCHEMA -.->|"contract"| ETL
 ```
